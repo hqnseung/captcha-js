@@ -1,0 +1,19 @@
+{
+  "name": "captcha-js",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hqnseung/captcha-js.git"
+  },
+  "author": "hqnseung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hqnseung/captcha-js/issues"
+  },
+  "homepage": "https://github.com/hqnseung/captcha-js#readme",
+  "description": ""
+}
